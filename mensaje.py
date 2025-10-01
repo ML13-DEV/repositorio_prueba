@@ -1,1 +1,2 @@
-print("hola mundo")
+def saludar(nombre):
+  return f"hola {nombre}"
